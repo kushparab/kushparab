@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, I'm Kush Parab
 
-<!--
-**kushparab/kushparab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=kushparab&color=blue)
+![Followers](https://img.shields.io/github/followers/kushparab?label=Followers&style=social)
 
-Here are some ideas to get you started:
+## Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![trophy](https://github-profile-trophy.vercel.app/?username=kushparab&theme=onedark&row=2&column=4)
+
+Earned GitHub badges: Quickdraw, YOLO, Pull Shark (Bronze). Pair Extraordinaire, Galaxy Brain, Starstruck, Public Sponsor still in progress.
+
+## Stats
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![stats](https://github-readme-stats.vercel.app/api?username=kushparab&show_icons=true&theme=tokyonight) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushparab&layout=compact&theme=tokyonight) |
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=kushparab&theme=tokyonight)
+
+## Tech Stack
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
+
+## Contact
+
+[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=x&logoColor=white)](https://x.com/kushparab)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushparab@example.com)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushparab&theme=react-dark" alt="Contribution Graph">
+</div>
