@@ -25,8 +25,7 @@ Earned GitHub badges: Quickdraw, YOLO, Pull Shark (Bronze). Pair Extraordinaire,
 
 ## Contact
 
-[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=x&logoColor=white)](https://x.com/kushparab)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushparab@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushparab18@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushparab&theme=react-dark" alt="Contribution Graph">
